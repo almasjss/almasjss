@@ -1,13 +1,19 @@
 ### Hi, I'm Almas 👋
 
-Backend engineer (Java/Kotlin) based in Almaty. By day I work on high-load fintech backend and messaging. With my team I build **logistics products** and take them all the way to production: delivery, pickup points, e-queues.
+Backend engineer (Java/Kotlin) in Almaty. I work on backend and messaging services, and with a small team I build apps for logistics: delivery, pickup points, queues.
 
-**Ready-made integrations:** WhatsApp gateway · Telegram alert/ops bot · 1688 / Yatobuy API · eCustoms · pickup point APIs
+**What I work on**
+
+- mobile apps and backends for delivery and pickup point services
+- integrations: WhatsApp, Telegram bots, marketplace and customs APIs
+- notifications and messaging
 
 **Stack**
 
 `Java` `Kotlin` `Spring Boot` `PostgreSQL` `Flutter` `Android`
 
-**How I work:** simplest solution that survives the load, honest estimates, results in numbers.
+**Open source**
 
-📍 Almaty, Kazakhstan · open to logistics and e-commerce projects
+- [whatsapp-gateway-oss](https://github.com/almasjss/whatsapp-gateway-oss) — multi-tenant WhatsApp gateway (Baileys, BullMQ, Redis)
+
+📍 Almaty, Kazakhstan
