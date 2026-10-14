@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Almas 👋
 
-<!--
-**almasjss/almasjss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer (Java/Kotlin) based in Almaty. By day I work on high-load fintech backend and messaging. With my team I build **logistics products** and take them all the way to production: delivery, pickup points, e-queues.
 
-Here are some ideas to get you started:
+**What we've shipped**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **MyPoint** — pickup point network: mobile app and backend for parcel intake and handout, marketplace integrations
+- **QP Express** — express delivery: tracking, courier app, operator dashboard
+- **[Qline](https://qline.kz)** — electronic queue: booking, display boards, notifications
+
+**Ready-made integrations:** WhatsApp gateway · Telegram alert/ops bot · 1688 / Yatobuy API · eCustoms · pickup point APIs
+
+**Stack**
+
+`Java` `Kotlin` `Spring Boot` `PostgreSQL` `Flutter` `Android`
+
+**How I work:** simplest solution that survives the load, honest estimates, results in numbers.
+
+📍 Almaty, Kazakhstan · open to logistics and e-commerce projects
